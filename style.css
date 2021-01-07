@@ -53,11 +53,11 @@
     }
     #lastet{
         
-    color: coral;
+    color: rgb(231, 100, 53);
     }
 
     #working{
-    color: dimgray;
+    color: rgb(99, 94, 94);
 
 
     }
@@ -69,6 +69,9 @@
         float: left;
         margin-left: 5%;
         padding: 4px 5px;
+        box-shadow: 10px 10px 40px gray;
+        border: 5px;
+        border-radius: 10px;
     }
     .third-width
     img{
@@ -86,7 +89,9 @@
         margin: 150px;
         
         width: 40%;
-        border-radius: 6px;
+        height: 50%;
+        border-radius: 20px;
+        box-shadow: 2px gray;
         
     }
     .box h1{
@@ -135,5 +140,11 @@
     width: 5px;
 }
 body{
-    background-color:ivory;
+    background-color:bisque;
+}
+.hello{
+    color: rgb(9, 54, 99);
+}
+#about{
+    color:  rgb(9, 54, 99);;
 }
