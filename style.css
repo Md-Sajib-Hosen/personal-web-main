@@ -77,10 +77,15 @@ color: dimgray;
     border:5px;
 
 }
-.fot{
-    background-color: dodgerblue;
+.box{
+    background-image: url(fot.png);
     background-repeat: no-repeat;
-    border: 1 solid ;
+    padding: 100px;
+    margin: 112px;
+    
+    width: 50%;
+    border-radius: 6px;
+    
 }
 
 
